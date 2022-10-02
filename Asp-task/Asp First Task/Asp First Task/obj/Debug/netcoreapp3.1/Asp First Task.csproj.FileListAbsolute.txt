@@ -1,0 +1,34 @@
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\bin\Debug\netcoreapp3.1\Asp First Task.exe
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\bin\Debug\netcoreapp3.1\Asp First Task.deps.json
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\bin\Debug\netcoreapp3.1\Asp First Task.runtimeconfig.json
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\bin\Debug\netcoreapp3.1\Asp First Task.runtimeconfig.dev.json
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\bin\Debug\netcoreapp3.1\Asp First Task.dll
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\bin\Debug\netcoreapp3.1\Asp First Task.pdb
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\bin\Debug\netcoreapp3.1\Asp First Task.Views.dll
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\bin\Debug\netcoreapp3.1\Asp First Task.Views.pdb
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\obj\Debug\netcoreapp3.1\Asp First Task.csproj.AssemblyReference.cache
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\obj\Debug\netcoreapp3.1\Asp First Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\obj\Debug\netcoreapp3.1\Asp First Task.AssemblyInfoInputs.cache
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\obj\Debug\netcoreapp3.1\Asp First Task.AssemblyInfo.cs
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\obj\Debug\netcoreapp3.1\Asp First Task.csproj.CoreCompileInputs.cache
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\obj\Debug\netcoreapp3.1\Asp First Task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\obj\Debug\netcoreapp3.1\Asp First Task.RazorAssemblyInfo.cache
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\obj\Debug\netcoreapp3.1\Asp First Task.RazorAssemblyInfo.cs
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\obj\Debug\netcoreapp3.1\staticwebassets\Asp First Task.StaticWebAssets.Manifest.cache
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\obj\Debug\netcoreapp3.1\Asp First Task.TagHelpers.input.cache
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\obj\Debug\netcoreapp3.1\Asp First Task.TagHelpers.output.cache
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\obj\Debug\netcoreapp3.1\Asp First Task.RazorCoreGenerate.cache
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\obj\Debug\netcoreapp3.1\Razor\Views\About\Index.cshtml.g.cs
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\obj\Debug\netcoreapp3.1\Razor\Views\SignIn\Index.cshtml.g.cs
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\obj\Debug\netcoreapp3.1\Razor\Views\SignUp\Index.cshtml.g.cs
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\obj\Debug\netcoreapp3.1\Asp First Task.RazorTargetAssemblyInfo.cache
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\obj\Debug\netcoreapp3.1\Asp First Task.RazorTargetAssemblyInfo.cs
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\obj\Debug\netcoreapp3.1\Asp First Task.Views.pdb
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\obj\Debug\netcoreapp3.1\Asp First Task.dll
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\obj\Debug\netcoreapp3.1\Asp First Task.pdb
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\obj\Debug\netcoreapp3.1\Asp First Task.genruntimeconfig.cache
+C:\Users\marda\Desktop\Code\asp.net\asp.net-intro\Asp-task\Asp First Task\Asp First Task\obj\Debug\netcoreapp3.1\Asp First Task.csproj.CopyComplete

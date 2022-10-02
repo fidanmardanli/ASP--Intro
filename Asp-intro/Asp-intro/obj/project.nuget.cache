@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DcNguJOFwl9u64ENgaagt5471V0SdjmA8avUXy4SbNjD2mtnV2J8MArq51YUyc/zhrjF95fWBWCOEFfBsHMB6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marda\\Desktop\\Code\\asp.net\\asp.net-intro\\Asp-intro\\Asp-intro\\Asp-intro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marda\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O6L3ywCiKdhfkTTc1lbp5BVDc0J5DuXyatWgVUecrIVL3+c0b4QRc0KrPV+ZxQVoJMp1Rl8zbGqmk3XEjizXdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marda\\Desktop\\Code\\asp.net\\asp.net-intro\\Asp-task\\Asp First Task\\Asp First Task\\Asp First Task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marda\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
